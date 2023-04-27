@@ -10,8 +10,8 @@ Collision is viewable from the 2D representation, as the camera (user's cursor) 
 ![raycasterDemo](https://user-images.githubusercontent.com/130253308/234984493-3036b660-f68b-4c56-a458-2ed2fd0167db.gif)
 
 ## Authors
-* @0lib3
-* @jetsonblack
+* [@0lib3](https://github.com/0lib3)
+* [@jetsonblack](https://github.com/jetsonblack)
 
 ## Features
 * Real Time Calculations and Visualizations based on Mouse Movement
